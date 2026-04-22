@@ -36,7 +36,7 @@ const Credits = () => {
       <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
         <p className="text-gray-500 text-sm text-center sm:text-left">
           Made by{" "}
-          <Link href="https://github.com/MasabBinZia">
+          <Link href="https://github.com/anshmalik08">
             <span className="text-bold underline">Ansh Malik</span>
           </Link>
         </p>
